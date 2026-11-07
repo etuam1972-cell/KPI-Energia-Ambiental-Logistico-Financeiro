@@ -18,7 +18,6 @@ Desenvolver uma solução analítica capaz de medir os impactos da operação de
 
 🌱 Impacto Ambiental
 
-
 Os indicadores foram construídos para comparar dois cenários operacionais:
 
 
@@ -27,17 +26,15 @@ Os indicadores foram construídos para comparar dois cenários operacionais:
 ❌ Somente Sucata Solta
 
 
-
 🗂️ Base de Dados
-
 
 O projeto utiliza um banco de dados sintético desenvolvido para fins acadêmicos, contendo informações operacionais do processo de enfardamento.
 
 
 📋 Variáveis Originais
 
-
 Variável	Descrição
+
 
 ⚙️ Eficiencia_Enfardamento_%	Eficiência operacional do enfardamento
 
