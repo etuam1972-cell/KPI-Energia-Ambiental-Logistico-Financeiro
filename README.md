@@ -266,18 +266,6 @@ flowchart TD
       ![Dashboard](./5.png)
       ![Dashboard](./6.png)
       ![Dashboard](./7.png)
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   📊 DASHBOARD GERENCIAL                       │
-├───────────────────┬─────────────────────┬───────────────────────┤
-│  ⚡ ENERGÉTICO   │  💰 FINANCEIRO      │  🌱 AMBIENTAL        │
-│  kWh/Ton: X.XX    │  Redução: XX%       │  CO₂ evitado: X t     │
-├───────────────────┴─────────────────────┴───────────────────────┤
-│                   🚛 LOGÍSTICO                                 │
-│         Viagens reduzidas: XX% | Caminhões: -X unidades         │
-└─────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 📚 Observação
