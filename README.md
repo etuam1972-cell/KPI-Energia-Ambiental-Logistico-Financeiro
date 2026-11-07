@@ -29,12 +29,19 @@ O projeto utiliza um banco de dados sintético desenvolvido para fins acadêmico
 Variável	Descrição
 
 ⚙️ Eficiencia_Enfardamento_%	Eficiência operacional do enfardamento
+
 📦 Peso_Medio_Fardo_kg	Peso médio dos fardos produzidos
+
 🏗️ Sucata_Enfardada_Ton	Quantidade de sucata enfardada
+
 📚 Sucata_Solta_Ton	Quantidade de sucata movimentada sem enfardamento
+
 📦 Num_Fardos_Produzidos	Total de fardos produzidos
+
 ⚡ Consumo_Especifico_kWh_Ton	Consumo específico de energia
+
 🔋 Energia_Base_kWh	Consumo energético base
+
 🛠️ Energia_Extra_Quebra_kWh	Consumo adicional devido a paradas e quebras
 
 🧮 Colunas Calculadas
@@ -44,8 +51,11 @@ A partir dos dados originais foram criadas novas métricas para ampliar as anál
 Variável Calculada	Objetivo
 
 ⚡ Energia_kWh	Energia total consumida
+
 🚛 Cacambas_Sucata_Solta_Estim	Estimativa de caçambas para sucata solta
+
 📦 Cacambas_Fardos_Estim	Estimativa de caçambas para sucata enfardada
+
 ⚡ Análise Energética
 
 📊 Planilha: Tabelas Dinâmicas
@@ -95,6 +105,7 @@ Indicador Principal
 Comparação entre:
 
 📦 Operação com sucata enfardada e sucata solta
+
 📚 Operação utilizando apenas sucata solta
 
 Objetivo
@@ -120,6 +131,7 @@ Indicador Principal
 Comparação entre:
 
 📦 Sucata Enfardada + Sucata Solta
+
 📚 Apenas Sucata Solta
 
 Objetivo
@@ -147,6 +159,7 @@ Indicador Principal
 Comparação entre:
 
 📦 Operação com sucata enfardada e sucata solta
+
 📚 Operação utilizando apenas sucata solta
 
 Objetivo
@@ -164,24 +177,39 @@ Mensurar:
 📈 Ferramentas Utilizadas
 
 📗 Microsoft Excel
+
 📊 Tabelas Dinâmicas
+
 📉 Gráficos Dinâmicos
+
 🧮 Fórmulas Excel
+
 ⚡ KPIs Operacionais
+
 📊 Análise Estatística
+
 📈 Modelagem de Indicadores
+
 🧠 DAX
+
 🎓 Competências Desenvolvidas
 
 Construção de KPIs industriais
 
 Análise de eficiência energética
+
 Análise financeira aplicada à operação
+
 Indicadores logísticos
+
 Indicadores ambientais
+
 Tratamento e modelagem de dados
+
 Construção de dashboards gerenciais
+
 Desenvolvimento de soluções analíticas em Excel
+
 Tomada de decisão baseada em dados
 
 🚀 Principais Resultados
