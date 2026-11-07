@@ -11,20 +11,28 @@ A proposta foi transformar dados operacionais em informações estratégicas por
 Desenvolver uma solução analítica capaz de medir os impactos da operação de enfardamento de sucata sob diferentes perspectivas:
 
 ⚡ Eficiência Energética
+
 💰 Retorno Financeiro
+
 🚛 Eficiência Logística
+
 🌱 Impacto Ambiental
 
 Os indicadores foram construídos para comparar dois cenários operacionais:
 
 ✅ Sucata Solta + Sucata Enfardada
+
 ❌ Somente Sucata Solta
+
 
 🗂️ Base de Dados
 
+
 O projeto utiliza um banco de dados sintético desenvolvido para fins acadêmicos, contendo informações operacionais do processo de enfardamento.
 
+
 📋 Variáveis Originais
+
 
 Variável	Descrição
 
@@ -44,11 +52,15 @@ Variável	Descrição
 
 🛠️ Energia_Extra_Quebra_kWh	Consumo adicional devido a paradas e quebras
 
+
 🧮 Colunas Calculadas
+
 
 A partir dos dados originais foram criadas novas métricas para ampliar as análises.
 
+
 Variável Calculada	Objetivo
+
 
 ⚡ Energia_kWh	Energia total consumida
 
@@ -60,47 +72,61 @@ Variável Calculada	Objetivo
 
 📊 Planilha: Tabelas Dinâmicas
 
+
 A primeira etapa do projeto consistiu na construção de KPIs energéticos utilizando Tabelas Dinâmicas.
 
+
 Indicadores Desenvolvidos
+
 
 ⚡ KPI kWh/Ton Enfardada
 
 Avalia o consumo energético por tonelada de sucata enfardada.
 
+
 📚 KPI Sucata Solta
 
 Monitora o volume total de sucata movimentada sem enfardamento.
+
 
 ⚡ KPI kWh/Ton Total
 
 Mede a eficiência energética considerando toda a sucata processada.
 
+
 🛠️ KPI kWh/Ton Extra com Enfardadeira Quebrada
 
 Avalia o impacto energético causado por falhas e indisponibilidades operacionais.
+
 
 🏭 Total de Sucata por Turno
 
 Permite comparar a produção entre diferentes turnos operacionais.
 
+
 ⚙️ Eficiência de Enfardamento por Esteira
 
 Analisa a produtividade individual de cada linha de produção.
+
 
 📦 Soma de Sucata Enfardada e Solta
 
 Apresenta a movimentação total de material processado.
 
+
 💰 Análise Financeira
 
 📊 Planilha: Financeiro
 
+
 Foi elaborado um estudo comparativo entre os custos e os ganhos operacionais dos dois cenários analisados.
+
 
 Indicador Principal
 
+
 💰 KPI Financeiro Comparativo
+
 
 Comparação entre:
 
@@ -108,7 +134,9 @@ Comparação entre:
 
 📚 Operação utilizando apenas sucata solta
 
+
 Objetivo
+
 
 Determinar:
 
@@ -118,15 +146,20 @@ Determinar:
 
 ✅ Ganhos de produtividade no transporte
 
+
 🚛 Análise Logística
 
 📊 Planilha: Caçambas
 
+
 A análise logística foi criada para mensurar a eficiência do transporte da sucata.
+
 
 Indicador Principal
 
+
 🚛 KPI Logístico Comparativo
+
 
 Comparação entre:
 
@@ -134,7 +167,9 @@ Comparação entre:
 
 📚 Apenas Sucata Solta
 
+
 Objetivo
+
 
 Avaliar:
 
@@ -146,21 +181,28 @@ Avaliar:
 
 ✅ Otimização da logística de transporte
 
+
 🌱 Análise Ambiental
+
 
 📊 Planilha: Emissões CO₂
 
 A dimensão ambiental do projeto buscou avaliar os benefícios sustentáveis obtidos com o enfardamento.
 
+
 Indicador Principal
+
 
 🌱 KPI Ambiental Comparativo
 
+
 Comparação entre:
+
 
 📦 Operação com sucata enfardada e sucata solta
 
 📚 Operação utilizando apenas sucata solta
+
 
 Objetivo
 
@@ -174,7 +216,9 @@ Mensurar:
 
 ✅ Menor emissão de gases de efeito estufa por tonelada movimentada
 
+
 📈 Ferramentas Utilizadas
+
 
 📗 Microsoft Excel
 
@@ -192,7 +236,9 @@ Mensurar:
 
 🧠 DAX
 
+
 🎓 Competências Desenvolvidas
+
 
 Construção de KPIs industriais
 
@@ -210,9 +256,12 @@ Construção de dashboards gerenciais
 
 Desenvolvimento de soluções analíticas em Excel
 
+
 Tomada de decisão baseada em dados
 
+
 🚀 Principais Resultados
+
 
 ✅ Criação de indicadores energéticos para avaliação operacional.
 
@@ -224,7 +273,9 @@ Tomada de decisão baseada em dados
 
 ✅ Aplicação prática de conceitos de Business Intelligence utilizando dados sintéticos.
 
+
 📸 Dashboard e Relatórios
+
 
 📚 Observação
 
