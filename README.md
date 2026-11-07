@@ -259,8 +259,13 @@ flowchart TD
 
 ## 📸 Dashboard e Relatórios
 
-> 📌 Adicione aqui capturas de tela do dashboard desenvolvido no Excel ou visualizações dos gráficos dinâmicos gerados durante o projeto.
-
+> 📌 ![Dashboard](./imagens/1.png)
+      ![Dashboard](./imagens/2.png)
+      ![Dashboard](./imagens/3.png)
+      ![Dashboard](./imagens/4.png)
+      ![Dashboard](./imagens/5.png)
+      ![Dashboard](./imagens/6.png)
+      ![Dashboard](./imagens/7.png)
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                   📊 DASHBOARD GERENCIAL                        │
