@@ -18,11 +18,14 @@ Desenvolver uma solução analítica capaz de medir os impactos da operação de
 
 🌱 Impacto Ambiental
 
+
 Os indicadores foram construídos para comparar dois cenários operacionais:
+
 
 ✅ Sucata Solta + Sucata Enfardada
 
 ❌ Somente Sucata Solta
+
 
 
 🗂️ Base de Dados
