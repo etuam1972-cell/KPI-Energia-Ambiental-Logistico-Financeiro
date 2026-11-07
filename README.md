@@ -259,21 +259,21 @@ flowchart TD
 
 ## 📸 Dashboard e Relatórios
 
-> 📌 ![Dashboard](./imagens/1.png)
-      ![Dashboard](./imagens/2.png)
-      ![Dashboard](./imagens/3.png)
-      ![Dashboard](./imagens/4.png)
-      ![Dashboard](./imagens/5.png)
-      ![Dashboard](./imagens/6.png)
-      ![Dashboard](./imagens/7.png)
+> 📌 ![Dashboard](./1.png)
+      ![Dashboard](./2.png)
+      ![Dashboard](./3.png)
+      ![Dashboard](./4.png)
+      ![Dashboard](./5.png)
+      ![Dashboard](./6.png)
+      ![Dashboard](./7.png)
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                   📊 DASHBOARD GERENCIAL                        │
+│                   📊 DASHBOARD GERENCIAL                       │
 ├───────────────────┬─────────────────────┬───────────────────────┤
-│  ⚡ ENERGÉTICO    │  💰 FINANCEIRO      │  🌱 AMBIENTAL         │
-│  kWh/Ton: X.XX   │  Redução: XX%       │  CO₂ evitado: X t    │
+│  ⚡ ENERGÉTICO   │  💰 FINANCEIRO      │  🌱 AMBIENTAL        │
+│  kWh/Ton: X.XX    │  Redução: XX%       │  CO₂ evitado: X t     │
 ├───────────────────┴─────────────────────┴───────────────────────┤
-│                   🚛 LOGÍSTICO                                  │
+│                   🚛 LOGÍSTICO                                 │
 │         Viagens reduzidas: XX% | Caminhões: -X unidades         │
 └─────────────────────────────────────────────────────────────────┘
 ```
