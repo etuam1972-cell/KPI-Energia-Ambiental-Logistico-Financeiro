@@ -14,6 +14,7 @@ Desenvolver uma solução analítica capaz de medir os impactos da operação de
 💰 Retorno Financeiro
 🚛 Eficiência Logística
 🌱 Impacto Ambiental
+
 Os indicadores foram construídos para comparar dois cenários operacionais:
 
 ✅ Sucata Solta + Sucata Enfardada
